@@ -290,4 +290,3 @@ clean_obsolete:
 	fi
 
 cleanall: clean clean_pot clean_obsolete
-
